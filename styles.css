@@ -28,6 +28,14 @@ justify-content: center;
     background-image: url('paw.jpg');
     background-size:auto;
     background-position: center;
+    font-size: 100px;
+    color:rgb(250, 216, 172);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 
 }
 
